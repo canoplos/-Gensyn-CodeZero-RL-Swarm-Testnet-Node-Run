@@ -207,14 +207,39 @@ VEYA
 
 
 
+## Adım 4:  Run the Swarm
 
 
 
 
 
+##  (GPU)
+
+
+1-  Yeni Bir Screen açın 
+
+   ```bash
+    screen -S swarm
+   ```
 
 
 
+
+
+   ```bash
+    screen -S swarm
+   ```
+
+
+
+
+
+2- rl-swarm dizinine girin
+
+
+   ```bash
+    cd rl-swarm
+   ```
 
 
 
