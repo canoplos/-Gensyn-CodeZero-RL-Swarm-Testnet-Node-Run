@@ -12,20 +12,6 @@
 
 
 
-
-
-
-
-
-
-  <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/f1877150-2235-4b0b-8c78-0fc3afa0c685" />
-
-
-
-
-
-
-
 # 🤖 Gensyn CodeZero RL Swarm Testnet Node Kurulum Rehberi
 
 Bu rehber, **Gensyn**'in merkeziyetsiz bilgi işlem ağı üzerinde, **CodeZero RL Swarm Testnet** düğümünü (Node) başarıyla kurup çalıştırmanız için gerekli tüm adımları içermektedir.
@@ -37,6 +23,31 @@ Bu rehber, **Gensyn**'in merkeziyetsiz bilgi işlem ağı üzerinde, **CodeZero 
 **Gensyn**, yapay zeka eğitim ve çıkarımını merkezi olmayan bir şekilde sağlayan bir Katman-1 protokolüdür. **CodeZero RL Swarm Testnet** ise, dağıtık bir ortamda karmaşık **Pekiştirmeli Öğrenme (RL)** iş yüklerini çözerek ağın performansını test etmeyi amaçlayan kritik bir test aşamasıdır. Bir düğüm çalıştırmak, bu merkeziyetsiz yapay zeka devrimine erkenden katılmanızı sağlar.
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/f1877150-2235-4b0b-8c78-0fc3afa0c685" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🛠️ Ön Koşullar
 
