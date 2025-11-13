@@ -66,13 +66,18 @@ Lütfen kurulumdan önce aşağıdaki gereksinimlerin karşılandığından emin
 
 GPU Modeli,Mimari,VRAM (Bellek),Bellek Bant Genişliği,TFLOPs (FP64),AI Performans Potansiyeli
 
+
 RTX 3090,Ampere,24 GB GDDR6X,936 GB/s,~42 TFLOPS (FP32),Yüksek (Giriş/Orta Seviye Node)
+
 
 RTX 4090,Ada Lovelace,24 GB GDDR6X,1008 GB/s,~83 TFLOPS (FP32),Çok Yüksek (Yüksek Seviye Node)
 
+
 RTX 5090,Blackwell (Tahmini),32 GB+ (Tahmini),1500+ GB/s (Tahmini),120+ TFLOPS (Tahmini),Premium (Gelecek Nesil Node)
 
+
 A100 (SMI),Ampere,40 GB / 80 GB HBM2e,1.5 - 2.0 TB/s,9.7 TFLOPS,Veri Merkezi (Premium Hesaplama)
+
 
 H100 (SMI),Hopper,80 GB HBM3,3.35 TB/s,33.5 TFLOPS,Ultra Premium (En Yüksek Hesaplama)
 
