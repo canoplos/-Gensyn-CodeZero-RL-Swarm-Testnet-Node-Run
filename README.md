@@ -54,11 +54,11 @@ Lütfen kurulumdan önce aşağıdaki gereksinimlerin karşılandığından emin
 
 
 
--- Donanım Gereksinimleri -- 
+ Donanım Gereksinimleri 
 
 
 
-** CPU & GPU Destekleniyor **
+ CPU & GPU Destekleniyor 
 
 
 
@@ -72,9 +72,9 @@ Sadece - CPU :  arm64 or x86 CPU with minimum 32gb ram (Eğitim sırasında baş
 VEYA
 
 
-·  GPU :
+ ·  GPU :
 
-
+ 
    ·  RTX 3090
 
    ·  RTX 4090
