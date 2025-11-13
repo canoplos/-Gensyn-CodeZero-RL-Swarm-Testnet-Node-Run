@@ -128,16 +128,12 @@ H100 (SMI),Hopper,80 GB HBM3,3.35 TB/s,33.5 TFLOPS,Ultra Premium (En Yüksek Hes
 4.  **Node yükleyin:**
 
     ```bash
-
-
     sudo apt update
     curl -fsSL https://deb.nodesource.com/setup_22.x | sudo bash -
     sudo apt install -y nodejs
     node -v
     npm install -g yarn
     yarn -v
-
-    
     ```
 
 
@@ -146,18 +142,14 @@ H100 (SMI),Hopper,80 GB HBM3,3.35 TB/s,33.5 TFLOPS,Ultra Premium (En Yüksek Hes
 
 
    ```bash
-
-
    curl -o- -L https://yarnpkg.com/install.sh | bash
-
-
-
    ```
+
+
 
    ```bash
    export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
     ```
-
 
 
 
