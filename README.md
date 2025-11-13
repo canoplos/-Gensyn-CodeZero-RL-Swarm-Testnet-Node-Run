@@ -72,9 +72,30 @@ Sadece - CPU :  arm64 or x86 CPU with minimum 32gb ram (Eğitim sırasında baş
 VEYA
 
 
+·  GPU :
 
 
+        ·  RTX 3090
 
+
+        ·  RTX 4090
+
+
+        ·  RTX 5090
+
+
+        ·  A100
+
+
+        ·  H100
+        
+        
+        ·  ≥24GB vRAM GPU is recommended, 
+
+
+        ·  ≥12.4 CUDA Driver.
+
+        
 
 
 
