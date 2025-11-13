@@ -75,7 +75,7 @@ VEYA
  ·  GPU :
 
  
-   ·  RTX 3090
+   ·      ·  RTX 3090
    
    ·  RTX 4090
    
