@@ -116,6 +116,14 @@ H100 (SMI),Hopper,80 GB HBM3,3.35 TB/s,33.5 TFLOPS,Ultra Premium (En Yüksek Hes
 
 
 
+     sudo apt install python3 python3-pip python3-venv python3-dev -y
+    
+
+
+     ```
+
+
+
 
 4.  **Node yükleyin:**
 
@@ -144,9 +152,24 @@ H100 (SMI),Hopper,80 GB HBM3,3.35 TB/s,33.5 TFLOPS,Ultra Premium (En Yüksek Hes
 
 
 
+   ```
+
+   ```bash
+
+
+
 
 
    export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+
+
+    ```
+
+
+
+
+   ```bash
+
 
 
 
@@ -154,11 +177,17 @@ H100 (SMI),Hopper,80 GB HBM3,3.35 TB/s,33.5 TFLOPS,Ultra Premium (En Yüksek Hes
 
    source ~/.bashrc
 
+
+
+
+
+   ```
+
    
     
 
 
-    ```
+   
 
 
 ## Adım 2: HuggingFace Erişim belirtecini edinin  Mecburi değildir
