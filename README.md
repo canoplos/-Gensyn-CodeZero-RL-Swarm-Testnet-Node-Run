@@ -216,19 +216,15 @@ VEYA
 ##  (GPU)
 
 
+
+
+
 1-  Yeni Bir Screen açın 
 
    ```bash
     screen -S swarm
    ```
 
-
-
-
-
-   ```bash
-    screen -S swarm
-   ```
 
 
 
