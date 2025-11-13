@@ -1,17 +1,3 @@
-# ⚡️  Gensyn-CodeZero-RL-Swarm-Testnet-Node-Run ⚡️
-
-
-
- **Gensyn**'in CodeZero RL Swarm Testnet! Bu rehber, merkeziyetsiz bilgi işlem ağı üzerinde, **CodeZero RL Swarm Testnet** düğümünü (Node) başarıyla kurup çalıştırmanız için gerekli tüm adımları içermektedir.
-
-
-
-
-
-
-
-
-
 # 🤖 Gensyn CodeZero RL Swarm Testnet Node Kurulum Rehberi
 
 Bu rehber, **Gensyn**'in merkeziyetsiz bilgi işlem ağı üzerinde, **CodeZero RL Swarm Testnet** düğümünü (Node) başarıyla kurup çalıştırmanız için gerekli tüm adımları içermektedir.
