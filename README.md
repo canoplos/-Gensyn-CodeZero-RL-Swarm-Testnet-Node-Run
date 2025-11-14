@@ -325,12 +325,19 @@ VEYA
 
 
 
+## Model isimleri
 
 
 
 
 
 
+**Qwen/Qwen2.5-Coder-0.5B-Instruct**
+
+
+
+
+**Qwen/Qwen2.5-Coder-1.5B-Instruct**
 
 
 
