@@ -376,11 +376,27 @@ VEYA
 
 
 
+1 -  node'nuz  screen içinde çalışırken ctrl + c ile durdurun ve aşşağıdaki komutu girin 
+
+
+
+
+   ```bash
+    deactivate && rm -rf .venv && git stash && git pull && python3 -m venv .venv && source .venv/bin/activate && bash run_rl_swarm.sh
+   ``` 
 
 
 
 
 
+2 - Sonra tekrar çalıştırın artık node'nuz güncellendi 
+
+
+
+ 
+   ```bash
+    bash run_rl_swarm.sh
+   ```  
 
 
 
