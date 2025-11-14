@@ -26,7 +26,8 @@ This guide contains all the steps necessary to successfully set up and run the *
 
 
 
-<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/f1877150-2235-4b0b-8c78-0fc3afa0c685" />
+![1500x500 (1)](https://github.com/user-attachments/assets/16a9e7f5-84ea-4996-a63a-b40f77c6f893)
+
 
 
 
