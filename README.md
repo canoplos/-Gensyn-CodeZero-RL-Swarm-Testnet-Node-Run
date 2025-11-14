@@ -1,15 +1,16 @@
-# 🤖 Gensyn CodeZero RL Swarm Testnet Node Kurulum Rehberi
+# 🤖 Gensyn CodeZero RL Swarm Testnet Node Setup Guide
 
 
-Bu rehber, **Gensyn**'in merkeziyetsiz bilgi işlem ağı üzerinde, **CodeZero RL Swarm Testnet** düğümünü (Node) başarıyla kurup çalıştırmanız için gerekli tüm adımları içermektedir.
-
+This guide contains all the steps necessary to successfully set up and run the **CodeZero RL Swarm Testnet** node on **Gensyn**'s decentralized computing network.
 
 ---
 
-## 🎯 Proje Hakkında: RL Swarm Testnet
+## 🎯 About the Project: RL Swarm Testnet
 
 
-**Gensyn**, yapay zeka eğitim ve çıkarımını merkezi olmayan bir şekilde sağlayan bir Katman-2 protokolüdür. **CodeZero RL Swarm Testnet** ise, dağıtık bir ortamda karmaşık **Pekiştirmeli Öğrenme (RL)** iş yüklerini çözerek ağın performansını test etmeyi amaçlayan kritik bir test aşamasıdır. Bir düğüm çalıştırmak, bu merkeziyetsiz yapay zeka devrimine erkenden katılmanızı sağlar.
+
+**Gensyn** is a Layer-2 protocol that enables decentralized artificial intelligence training and inference. **CodeZero RL Swarm Testnet** is a critical testing phase that aims to test the network's performance by solving complex **Reinforcement Learning (RL)** workloads in a distributed environment. Running a node allows you to participate early in this decentralized artificial intelligence revolution.
+
 
 
 ---
@@ -342,7 +343,7 @@ VEYA
 
 
 
-
+---
 
 ## Node Adı 
 
@@ -361,14 +362,14 @@ VEYA
 
 
 
+---
 
 
 
 
 
 
-
-
+---
 
 ## Son olarak eğer node varsa güncellemek istiyorsanız
 
@@ -400,7 +401,7 @@ VEYA
 
 
 
-
+---
 
 
 
