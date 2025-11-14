@@ -289,11 +289,13 @@ VEYA
    ```
 
 
+3-  Ctrl + A D ile çıkın ve aşşağıdaki komutla önceki screen'e dönün lütfen  
 
 
-
-
-
+   ```bash
+    screen -r  "screen numarası"
+   ```      
+      
 
     
 
