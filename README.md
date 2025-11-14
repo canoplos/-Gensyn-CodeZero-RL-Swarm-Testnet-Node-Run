@@ -241,12 +241,55 @@ VEYA
 
 
 
-3- Swarm'ı kurun
+3- Swarm'ı kurun ve çalıştırın 
 
 
    ```bash
     bash run_rl_swarm.sh
    ```
+
+
+
+
+
+## Adım 5:  Tünelleme ile mail bağlama 
+
+
+
+
+1-  önceki screen'den ctrl + a d ile çıkın  sonra yeni bir screen oluşturun 
+
+ 
+     
+   ```bash
+    screen -S swarm
+   ```
+
+
+
+2-  rl-swarm dizinine girin
+
+
+
+
+   ```bash
+    cd rl-swarm
+   ```
+
+
+
+3-  Bu aşşağıdaki kodu yapıştırın ve size verdiği url ile websiteye gidin sizden ip istiyecek şifre olarak sunucu ip'sini verin kabul edecek sonra mail ile giriş yapın 
+
+
+
+
+   ```bash
+    npm install -g localtunnel
+    lt --port 3000
+   ```
+
+
+
 
 
 
