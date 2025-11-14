@@ -12,42 +12,6 @@ This guide contains all the steps necessary to successfully set up and run the *
 **Gensyn** is a Layer-2 protocol that enables decentralized artificial intelligence training and inference. **CodeZero RL Swarm Testnet** is a critical testing phase that aims to test the network's performance by solving complex **Reinforcement Learning (RL)** workloads in a distributed environment. Running a node allows you to participate early in this decentralized artificial intelligence revolution.
 
 
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-![1500x500 (1)](https://github.com/user-attachments/assets/16a9e7f5-84ea-4996-a63a-b40f77c6f893)
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-## 🛠️  Pre requisites
-
-
-
-
-
 Please ensure the following requirements are met before installation:
 
 
@@ -55,11 +19,6 @@ Please ensure the following requirements are met before installation:
 * **Python 3.8+:** This is the primary environment in which the project will run.
 * **Hardware:** Minimum CPU, RAM, and storage space requirements compatible with Testnet specifications. (Please refer to the official Gensyn Testnet documentation.)
 
-
-
-
-
----
 
 
 
@@ -101,18 +60,9 @@ OR
    
    ·  ≥12.4 CUDA Driver.
 
-        
-
-
----
-
-
-
-
+    
 
 ## Step 1: Cloning the Repository and Preparation
-
-
 
 
 
