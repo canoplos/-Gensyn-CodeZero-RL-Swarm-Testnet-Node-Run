@@ -56,7 +56,14 @@ Please ensure the following requirements are met before installation:
 * **Hardware:** Minimum CPU, RAM, and storage space requirements compatible with Testnet specifications. (Please refer to the official Gensyn Testnet documentation.)
 
 
-##  Donanım Gereksinimleri 
+
+
+
+---
+
+
+
+##   Hardware Requirements 
 
 
 
